@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="[https://github.com/OSAMAALDAHMASI/tasks_app/blob/master/Screenshot_20241013-145955.jpg?raw=true](https://github.com/OSAMAALDAHMASI/tasks_app/blob/master/Screenshot_%D9%A2%D9%A0%D9%A2%D9%A4%D9%A1%D9%A0%D9%A1%D9%A3-%D9%A1%D9%A5%D9%A0%D9%A0%D9%A3%D9%A8.jpg?raw=true)" alt="Image 1" width="30%" />
-  <img src="https://github.com/OSAMAALDAHMASI/tasks_app/blob/master/Screenshot_20241013-145955.jpg?raw=true" alt="Image 2" width="30%" />
-  <img src="https://github.com/OSAMAALDAHMASI/tasks_app/blob/master/Screenshot_20241013-145955.jpg?raw=true" alt="Image 3" width="30%" />
-</p>
+![Image 1](https://github.com/OSAMAALDAHMASI/tasks_app/blob/master/Screenshot_20241013-145955.jpg?raw=true)
+![Image 2](https://github.com/OSAMAALDAHMASI/tasks_app/blob/master/Screenshot_20241013-145955.jpg?raw=true)
+![Image 3](https://github.com/OSAMAALDAHMASI/tasks_app/blob/master/Screenshot_20241013-145955.jpg?raw=true)
 
 # Task Management App
 
