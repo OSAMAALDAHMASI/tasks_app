@@ -1,3 +1,7 @@
+![My Screenshot]([https://github.com/username/repo-name/blob/main/screenshot1.png](https://github.com/OSAMAALDAHMASI/tasks_app/blob/master/Screenshot_٢٠٢٤١٠١٣-١٥٠٠٠٦.jpg))
+
+
+
 # Task Management App
 
 This project is a task management application that allows you to add tasks, edit them, mark tasks as completed, and easily delete them. The app uses a local database to store the tasks.
