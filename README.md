@@ -1,5 +1,5 @@
 
-![Image 1]([https://github.com/OSAMAALDAHMASI/tasks_app/blob/master/Screenshot_20241013-145955.jpg?raw=true](https://github.com/OSAMAALDAHMASI/tasks_app/blob/master/Screenshot%202024-10-13%20143923.png?raw=true))
+![Image 1](https://github.com/OSAMAALDAHMASI/tasks_app/blob/master/Screenshot%202024-10-13%20143923.png?raw=true)
 
 # Task Management App
 
