@@ -1,16 +1,30 @@
-# my_tasks
+# Task Management App
 
-this app exam
+This project is a task management application that allows you to add tasks, edit them, mark tasks as completed, and easily delete them. The app uses a local database to store the tasks.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Add New Task**: You can add a task title, content, and specify its importance (High, Medium, or Low).
+- **Edit Task**: Tap on the task you want to edit to update its information.
+- **Completed Tasks**: You can mark tasks as completed using a checkbox.
+- **Delete Tasks**: Easily delete tasks by swiping them left or right.
+- **Data Storage**: All tasks are saved in a local database using `sqflite`.
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- `Gext`: For state management.
+- `sqflite`: For local database storage.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How to Use
+
+1. Download or clone the project.
+2. Open the project in your preferred code editor.
+3. Ensure all required packages are installed by running:
+   
+bash
+   flutter pub get
+  
+4. Run the application using:
+   
+bash
+   flutter run
